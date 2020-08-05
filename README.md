@@ -1,2 +1,2 @@
-# Josh-Joseph-30-github.io
+# Josh-Joseph-30.github.io
 Personal Website
